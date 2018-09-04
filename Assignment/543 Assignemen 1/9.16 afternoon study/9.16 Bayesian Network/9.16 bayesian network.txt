@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Bayesian_network
+
+https://www.norsys.com/tutorials/netica/secA/tut_A1.htm          (good)
+https://www.bayesserver.com/docs/introduction/bayesian-networks  
+http://www.bayesia.com/bayesian-networks-examples
+
+

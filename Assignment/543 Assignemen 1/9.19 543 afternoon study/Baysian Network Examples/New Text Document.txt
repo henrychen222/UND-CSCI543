@@ -1,0 +1,3 @@
+http://bayesian-intelligence.com/bwb/2012-03/how-to-model-with-bayesian-networks/
+https://stats.stackexchange.com/questions/28617/constructing-a-bayesian-network-from-the-beginning
+https://www.youtube.com/watch?v=I3PHJZGot48
