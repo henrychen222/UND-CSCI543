@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Lloyd%27s_algorithm
+
+fab()
+https://www.tutorialspoint.com/c_standard_library/c_function_fabs.htm
+
+(sse)
+https://arxiv.org/pdf/1209.1960.pdf
