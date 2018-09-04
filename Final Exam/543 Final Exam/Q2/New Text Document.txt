@@ -1,0 +1,4 @@
+https://courses.cs.washington.edu/courses/cse515/17wi/slides/bnets.pdf
+http://www.cs.columbia.edu/~kathy/cs4701/documents/conditional-independence-bn.txt
+http://web.mit.edu/jmn/www/6.034/d-separation.pdf
+https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-17-BayesianNetworks.pdf

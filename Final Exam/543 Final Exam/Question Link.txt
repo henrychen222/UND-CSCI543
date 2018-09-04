@@ -1,0 +1,42 @@
+Q3
+http://www.cogsys.wiai.uni-bamberg.de/teaching/ss05/ml/slides/cogsysII-9.pdf
+
+Q4
+http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/mlc/2002/final-solutions.pdf
+https://www.cs.cmu.edu/~aarti/Class/10701/exams/final2002-solution.pdf
+http://www.chegg.com/homework-help/questions-and-answers/andrew-lives-simple-life-days-s-angry-days-s-happy-hides-emotional-state-observe-whether-s-q25827864
+
+
+Q5
+http://www.chegg.com/homework-help/questions-and-answers/na-ve-bayesian-model-2-classes-movies-new-old-x-y-z-class-1-0-0-old-0-1-0-new-1-0-0-new-0--q21899411
+http://www.cs.cmu.edu/~guestrin/Class/15781/additional/midterm2003-solution.pdf
+
+
+Q8
+http://inst.cs.berkeley.edu/~cs188/fa10/section_handouts/voi_solutions.pdf (good)
+https://edge.edx.org/assets/courseware/749efba05a2ecb46dc276aaa3dd252cf/c4x/BerkeleyX/CS188-FA14/asset/section_8_solutions.pdf   (good)
+http://www.chegg.com/homework-help/adapted-pearl-1988-used-car-buyer-decide-carry-various-test-chapter-16-problem-17e-solution-9780136042594-exc
+http://db.cs.duke.edu/courses/cps170/spring13/hw3.pdf
+https://cw.fel.cvut.cz/wiki/_media/courses/a4b33zui/a4b33zui_solved_tasks.pdf
+http://www.transtutors.com/questions/-adapted-from-pearl-1988-a-used-car-buyer-can-decide-to-carry-out-various-tests-with-2346548.htm
+http://www.expertsmind.com/library/calculate-the-expected-net-gain-from-buying-cl-51678104.aspx
+
+
+(12.9)
+Q1
+http://www.cs.wichita.edu/~sinha/teaching/spring16/cs771/slides/reasoning_uncertainty.pdf   (good)
+https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-16b-BayesNetAILecture.pdf
+https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-17-BayesianNetworks.pdf  (good)
+
+Q10
+https://www.clear.rice.edu/comp440/old/fall2007/handouts/hw4.pdf
+https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/cs-171-17-BayesianNetworks.pdf   (good)
+
+
+
+(12.13 night)
+Q10
+http://www.chegg.com/homework-help/questions-and-answers/decision-making-bayesian-networks-following-figure-shows-simple-bayesian-network-help-deci-q25933266
+
+Q10
+http://pami.uwaterloo.ca/~basir/ECE457/week10.pdf
