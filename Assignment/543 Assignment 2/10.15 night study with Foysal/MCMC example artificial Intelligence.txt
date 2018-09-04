@@ -1,0 +1,2 @@
+http://www2.hawaii.edu/~nreed/ics461/lectures/14BBayesInference.pdf
+http://vision.psych.umn.edu/users/schrater/schrater_lab/courses/AI2/mcmc.pdf   (good)

@@ -1,0 +1,5 @@
+https://www.probabilitycourse.com/chapter1/1_4_4_conditional_independence.php
+
+
+https://en.wikipedia.org/wiki/Conditional_independence
+https://www.eecs.qmul.ac.uk/~norman/BBNs/Independence_and_conditional_independence.htm
